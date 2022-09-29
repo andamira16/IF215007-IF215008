@@ -1,11 +1,17 @@
-# Artificial Intelligence untuk para jomblo
+# Artificial Intelligence untuk para pencari jalan
 
 ## Permasalahan
-AI ini dibuat untuk para jomblo disana yang ingin mencicipi bagaimana rasanya mempunyai pacar. jujur saya kasihan jika orang orang hanya bisa berhalusinasi oleh karena itu saya berinisiatif untuk menambahkan halusinasi teman teman sekalian
+AI ini dibuat untuk orang yang tersesat dijalan dan ingin kembali pulang dan saya buatkan AI ini yang akan membahas segala sesuatu yang diinginkan oleh user.
 
-## Solusi Permasalahan
+## Use case
 - user melakukan login
-- user menjelaskan bagaimana permasalahan atau sesuatu yang ingin di kemukakan
-- kemudian AI akan mencoba mencari jawaban sendiri
+- user mengetikan kata kunci dalam sebuah permasalahan
+- kemudian AI akan mencoba mencari jawaban sendiri yang berdasarkan Al-Qur'an
 
-## 
+## Struktur Data
+
+
+
+
+
+## UI/UX 
