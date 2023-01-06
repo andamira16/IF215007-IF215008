@@ -41,7 +41,7 @@ Klik simbol ▶ (panah) untuk membuka konten.
 <details>
 <summary>Demo : Browser API - Event Handling, Using Fetch/Axios</summary>
 
-![Image: Domain](API FetchAxios.png)
+![Image: API](API FetchAxios.png)
 
 </details>
 
