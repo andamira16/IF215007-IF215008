@@ -32,7 +32,7 @@ Klik simbol ▶ (panah) untuk membuka konten.
 <details>
 <summary>Demo : NodeJS & NPM installation, operation & hello world</summary>
 
-![Image: Node](nodejs,npminstall.png)
+![Image: Node](nodejs,npminstal.png)
 
 </details>
 
