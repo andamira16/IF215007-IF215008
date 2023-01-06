@@ -50,7 +50,7 @@ Klik simbol ▶ (panah) untuk membuka konten.
 <details>
 <summary>Demo : HTML Responsive Layout with Bootstrap</summary>
 
-![Image: Domain](CLO 3.png)
+![Image: Domain](https://github.com/andamira16/IF215007-IF215008/blob/main/UAS/CLO%203.png)
 
 </details>
 
